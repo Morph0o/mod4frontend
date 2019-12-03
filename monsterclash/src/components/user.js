@@ -1,6 +1,6 @@
 import React from 'react'
 
-class user extends React.Component(){
+class user extends React.Component{
     render(){
         return(
             <div>

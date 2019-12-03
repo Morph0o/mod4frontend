@@ -1,7 +1,6 @@
 import React from 'react'
 
-class Monster extends React.Component{
-
+class Fight extends React.Component{
     render(){
         return(
             <div>
@@ -10,4 +9,4 @@ class Monster extends React.Component{
         )
     }
 }
-export default Monster
+export default Fight

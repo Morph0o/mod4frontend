@@ -1,6 +1,6 @@
 import React from 'react'
 
-class intro extends React.Component(){
+class Intro extends React.Component{
     render(){
         return(
             <div>
@@ -15,4 +15,4 @@ class intro extends React.Component(){
         )
     }
 }
-export default intro
+export default Intro
