@@ -5,6 +5,7 @@ import Intro from './components/intro'
 import User from './components/user'
 import Monster from './components/monster'
 import Fight from './components/fight'
+import Home from './components/home'
 
 function App() {
   return (
@@ -27,7 +28,7 @@ function App() {
     <Route path="/user" component={User} />
     <Route path="/monster" component={Monster} />
     <Route path="/fight" component={Fight}/>
-    <Route path="/" component={App}/>
+    <Route path="/" component={Home}/>
     </div>
   </Router>
   </div>
