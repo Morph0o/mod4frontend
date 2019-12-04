@@ -4,20 +4,11 @@ class Home extends React.Component{
 
     render(){
         return(
-            <div>
-<<<<<<< HEAD
-               <div>
-                   
-               </div>
-               <div>
-                   </div> 
-=======
+            <div className="home">
                 <div>
-
+<h1>MONSTER CLASH</h1>
                 </div>
-                <div>
-                </div>
->>>>>>> e0d10e20023cb670f50ebad47a28dc6e7910ad0c
+                
             </div>
         )
     }

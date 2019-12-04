@@ -1,0 +1,17 @@
+.floatleft {
+float: left;
+padding: 30px;
+}
+.floatright {
+    float: right;
+    padding: 30px;
+}
+
+.links {
+    padding: 30px;
+    text-decoration: none;
+}
+
+.home {
+    text-align: center;
+}
