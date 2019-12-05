@@ -6,7 +6,7 @@ class Fight extends React.Component{
             <div>
             <div className="floatright">
                 <select>
-        {this.props.users.map(user => <option value={user}>{user.name}</option>)}
+        {this.props.user.map(user => <option value={user}> {user.name}</option>)}
                 </select>
                 <div>
                 player card
